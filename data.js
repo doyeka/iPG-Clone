@@ -91,7 +91,6 @@ var q = [
 	'Where do new users come from? How do users find out about you?',
 	'How are you meeting customers?',
 	'What is your distribution strategy? How will you grow?',
-  'What makes new users try you?',
   'Why do the reluctant users hold back?',
 	'What is your growth like?',
 	'What is your user growth rate?',
@@ -148,7 +147,13 @@ var q = [
 	'How long have you been working on this?',
 	'How long have you been working on this full time?',
 	'Are people willing to pay?',
-	'Who needs what youre making?'
+	'Who needs what youre making?',
+	'How big an opportunity is here?',
+	'What makes you different from existing options.',
+	'What a good comparision product for willingness to pay?',
+	'How will get your first 100 users.',
+	'What it the most unique aspect of your product? How is it different?',
+	'Are people looking to a solution to this problem?'
 ];
 
 // Tips
